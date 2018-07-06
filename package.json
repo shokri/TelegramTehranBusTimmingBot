@@ -1,0 +1,23 @@
+{
+  "name": "bustracker",
+  "version": "1.0.0",
+  "description": "شرکت واحد خطوط اتوبوسرانی تهران",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bus",
+    "tracker",
+    "tehran",
+    "bus",
+    "tracker"
+  ],
+  "author": "mr$h",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "telegram-node-bot": "^4.0.5",
+    "utm-converter": "^0.1.1"
+  }
+}
