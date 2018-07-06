@@ -1,3 +1,3 @@
 # TelegramTehranBusTimmingBot
 Telegram Bot
-![alt text](https://raw.githubusercontent.com/shokri/TelegramTehranBusTimmingBot/blob/master/BusTimming.png)
+![alt text](https://github.com/shokri/TelegramTehranBusTimmingBot/blob/master/BusTimming.png)
